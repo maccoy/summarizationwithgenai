@@ -24,7 +24,7 @@ def image_summarize(prompt):
                 {
                 "type": "image_url",
                 "image_url": {
-                   "url": "https://stackqstorage.blob.core.windows.net/testimages/page_2_image_1.png"
+                   "url": "https://abcqstorage.blob.core.windows.net/testimages/page_2_image_1.png"
                 },
 
 
@@ -33,49 +33,49 @@ def image_summarize(prompt):
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_1_image_2.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_1_image_2.png"
                     },
 
                 },
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_3_image_1.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_3_image_1.png"
                     },
 
                 },
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_4_image_1.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_4_image_1.png"
                     },
 
                 },
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_5_image_1.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_5_image_1.png"
                     },
 
                 },
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_5_image_2.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_5_image_2.png"
                     },
 
                 },
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_6_image_1.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_6_image_1.png"
                     },
 
                 },
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://stackqstorage.blob.core.windows.net/testimages/page_6_image_2.png"
+                        "url": "https://abcqstorage.blob.core.windows.net/testimages/page_6_image_2.png"
                     },
 
                 },
