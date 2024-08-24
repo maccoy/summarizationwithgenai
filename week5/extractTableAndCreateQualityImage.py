@@ -28,7 +28,7 @@ def extractTable(image):
     return cropped_image
 
 def preprocessImageForImprovingQuality(originalImage,improvedImage):
-        output_path="higresimage.png"
+        output_path="highresimage.png"
         dpi=300
         originalImage.save(output_path, dpi=(dpi, dpi))
         grayscale_image = ImageOps.grayscale(originalImage)
