@@ -4,7 +4,6 @@ from textLoader import getFullText
 
 AZURE_OPENAI_ENDPOINT='*'
 AZURE_OPENAI_KEY='*'
-# 19cd54641f5f454aa8d1fa70ec99bc3f
 AZURE_OPENAI_API_VERSION="2024-02-15-preview"
 AZURE_MODEL='*'
 def getClient():
