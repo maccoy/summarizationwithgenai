@@ -1,0 +1,28 @@
+{
+  "table": [
+    {
+      "category": "Trade Deficit / (Surplus)",
+      "May-24": 23.8,
+      "Jun-24": 21.0,
+      "Change": "-11.8%"
+    },
+    {
+      "category": "Net Oil Imports",
+      "May-24": 13.2,
+      "Jun-24": 9.5,
+      "Change": "-27.7%"
+    },
+    {
+      "category": "Net Gold Imports",
+      "May-24": 2.6,
+      "Jun-24": 2.8,
+      "Change": "8.4%"
+    },
+    {
+      "category": "NONG^ net imports",
+      "May-24": 8.0,
+      "Jun-24": 8.6,
+      "Change": "7.7%"
+    }
+  ]
+}
